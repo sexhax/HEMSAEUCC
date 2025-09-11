@@ -1,0 +1,14 @@
+# Ignore keys directory
+keys/
+
+# Ignore database files (common extensions)
+*.db
+*.sqlite
+*.sqlite3
+database/
+
+# Ignore all executables
+*.exe
+*.out
+*.o
+*.obj
