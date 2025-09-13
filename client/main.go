@@ -25,6 +25,7 @@ type EncryptedMessage struct {
 }
 
 func main() {
+	fmt.Println("HEMSAEUCC v1.2 (dev)\n Loaded...")
 	if len(os.Args) < 2 {
 		fmt.Println("Usage:")
 		fmt.Println("  client init")
